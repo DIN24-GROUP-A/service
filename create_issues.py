@@ -1,9 +1,9 @@
 import requests
 
 # GitHub Settings
-repo_owner = 'h7mmxd'  # Your GitHub username
-repo_name = 'ToDoApp'  # The repository where issues will be created
-token = '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'   # GitHub personal access token
+repo_owner = ''  # Your GitHub username
+repo_name = ''  # The repository where issues will be created
+token = ''   # GitHub personal access token
 api_url = f'https://api.github.com/repos/{repo_owner}/{repo_name}/issues'
 
 # Sprint tasks
